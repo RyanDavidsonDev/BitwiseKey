@@ -12,4 +12,4 @@ Playable-Release.zip filter=lfs diff=lfs merge=lfs -text
 Releases/Initial-Release-Windows/Milestones/Content/Paks/Milestones-Windows.pak filter=lfs diff=lfs merge=lfs -text
 Releases/Initial-Release-Windows/Milestones/Content/Paks/Milestones-Windows.ucas filter=lfs diff=lfs merge=lfs -text
 Releases/Initial-Release-Windows.zip filter=lfs diff=lfs merge=lfs -text
-Milestones/Milestones/Content/UI/BitwiseKeyMainMenuBackground.uasset filter=lfs diff=lfs merge=lfs -text
+Milestones/Milestones/Content/Visual/Particles/XrayWallSystem.uasset filter=lfs diff=lfs merge=lfs -text
